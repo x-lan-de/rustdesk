@@ -1,1 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="26" height="26" style="isolation:isolate" viewBox="66.993 897.484 26 26"><defs><linearGradient xlink:href="#a" id="b" x1=".148" x2=".845" y1=".851" y2=".154" gradientTransform="matrix(26.00048 0 0 25.99935 66.993 897.485)" gradientUnits="userSpaceOnUse"/></defs><linearGradient id="a" x1=".148" x2=".845" y1=".851" y2=".154" gradientTransform="matrix(26.301 0 0 26.331 90.674 911.757)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#004ba6" style="stop-color:#0071ff;stop-opacity:1"/><stop offset="1" stop-color="#00bfe1" style="stop-color:#00bfe1;stop-opacity:1"/></linearGradient><path fill="url(#a)" d="m89.318 903.552-2.135 2.122c-.376.337-.558.879-.347 1.337 1.422 2.976.882 6.524-1.452 8.856-2.335 2.331-5.887 2.87-8.866 1.449-.439-.197-.954-.03-1.292.312l-2.17 2.167a1.154 1.154 0 0 0 .208 1.81 13.005 13.005 0 0 0 15.91-1.912 12.97 12.97 0 0 0 1.956-15.887 1.154 1.154 0 0 0-1.812-.254zm-18.467-2.305a12.969 12.969 0 0 0-2.02 15.885 1.154 1.154 0 0 0 1.812.254l2.124-2.11c.385-.336.572-.884.359-1.348-1.423-2.976-.884-6.524 1.451-8.856 2.334-2.332 5.887-2.871 8.866-1.45.434.194.942.033 1.281-.3l2.182-2.18a1.152 1.152 0 0 0-.208-1.81 13.009 13.009 0 0 0-15.893 1.973z" style="fill:url(#b);stroke-width:.987988"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="1283.000000pt"
+   height="1283.000000pt"
+   viewBox="0 0 1283.000000 1283.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg861"
+   sodipodi:docname="mac-tray-dark-x2.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs865" />
+  <sodipodi:namedview
+     id="namedview863"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="0.76056692"
+     inkscape:cx="940.74562"
+     inkscape:cy="784.28339"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g859" />
+  <metadata
+     id="metadata855">
+Created by potrace 1.14, written by Peter Selinger 2001-2017
+</metadata>
+  <g
+     transform="translate(0.000000,1283.000000) scale(0.100000,-0.100000)"
+     fill="#000000"
+     stroke="none"
+     id="g859">
+    <path
+       d="M1255 10593 c-457 -41 -891 -222 -1081 -452 -120 -144 -170 -296 -161 -491 8 -166 55 -294 162 -439 118 -160 255 -267 660 -516 900 -553 1025 -636 1145 -761 287 -300 453 -642 527 -1089 28 -170 26 -633 -4 -805 -76 -432 -229 -758 -500 -1064 -171 -193 -356 -321 -1296 -902 -181 -112 -317 -217 -422 -325 -146 -151 -215 -268 -256 -429 -30 -118 -24 -280 15 -395 99 -292 396 -510 852 -626 447 -113 1079 -84 1561 72 317 103 580 259 805 477 100 97 182 212 947 1324 127 185 185 247 346 373 337 264 801 427 1380 487 196 19 721 16 910 -6 665 -77 1157 -286 1505 -638 91 -92 203 -249 925 -1303 49 -71 123 -165 164 -209 330 -341 800 -549 1411 -623 205 -24 667 -24 835 0 582 86 954 296 1082 610 74 181 71 412 -7 592 -60 139 -214 316 -385 445 -117 88 -166 117 -500 305 -691 388 -928 539 -1068 678 -190 189 -322 389 -422 637 -111 276 -165 581 -165 931 0 608 177 1083 558 1498 115 126 270 232 1007 694 193 120 391 249 441 287 232 173 385 376 440 580 25 93 23 280 -4 381 -80 298 -320 499 -736 618 -219 63 -347 81 -601 88 -709 18 -1312 -154 -1725 -492 -187 -154 -188 -155 -972 -1295 -215 -313 -273 -380 -434 -506 -272 -213 -605 -356 -1014 -438 -490 -97 -1127 -97 -1620 0 -488 96 -885 292 -1171 576 -74 74 -84 88 -794 1118 -232 337 -315 435 -480 565 -402 317 -967 480 -1639 473 -100 -1 -199 -3 -221 -5z"
+       id="path857"
+       inkscape:label="path857"
+       style="fill:#e89316;fill-opacity:1" />
+  </g>
+</svg>
