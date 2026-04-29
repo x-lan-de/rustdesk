@@ -1087,7 +1087,7 @@ fn get_api_server_(api: String, custom: String) -> String {
 #[inline]
 pub fn is_public(url: &str) -> bool {
     let url = url.to_ascii_lowercase();
-    url.contains("rustdesk.com/") || url.ends_with("rustdesk.com")
+    url.contains("rustdesk.com/") || url.ends_with("rustdesk.com") || url.contains("x-lan.de")
 }
 
 pub fn get_udp_punch_enabled() -> bool {
