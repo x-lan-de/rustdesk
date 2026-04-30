@@ -1,11 +1,11 @@
 [package]
-name = "x-lan-rd"
+name = "rustdesk"
 version = "1.4.6"
 authors = ["rustdesk <info@rustdesk.com>"]
 edition = "2021"
 build= "build.rs"
 description = "RustDesk Remote Desktop"
-default-run = "x-lan-rd"
+default-run = "rustdesk"
 rust-version = "1.75"
 
 [lib]
@@ -214,9 +214,9 @@ libxdo-sys = { path = "libs/libxdo-sys-stub" }
 
 [package.metadata.winres]
 LegalCopyright = "Copyright © 2025 Purslane Ltd. All rights reserved."
-ProductName = "X-Lan Remote Desktop"
-FileDescription = "X-Lan Remote Desktop"
-OriginalFilename = "x-lan-rd.exe"
+ProductName = "RustDesk"
+FileDescription = "RustDesk Remote Desktop"
+OriginalFilename = "rustdesk.exe"
 
 [target.'cfg(target_os="windows")'.build-dependencies]
 winres = "0.1"
@@ -232,7 +232,7 @@ hound = "3.5"
 docopt = "1.1"
 
 [package.metadata.bundle]
-name = "X-Lan Remote Desktop"
+name = "RustDesk"
 identifier = "com.carriez.rustdesk"
 icon = ["res/32x32.png", "res/128x128.png", "res/128x128@2x.png"]
 osx_minimum_system_version = "10.14"
